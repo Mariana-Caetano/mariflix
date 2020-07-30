@@ -5,7 +5,7 @@ import Logo from '../../assets/img/Logo.png'
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.linkedin.com/in/mariana-caetano1/">
+      <a target="blank" href="https://www.linkedin.com/in/mariana-caetano1/">
       <img className="Logo" src={Logo} alt="MariFlix Logo" />
       </a>
       <p>
