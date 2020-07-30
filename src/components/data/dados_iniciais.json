@@ -1,0 +1,170 @@
+{
+  "categorias": [
+    {
+      "titulo": "Programação 101",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#B72EBF",
+      "videos": [
+        {
+          "titulo": "Mulheres na computação",
+          "url": "https://www.youtube.com/watch?v=Qq9h2vVBZmQ"
+        },
+        {
+          "titulo": "Lógica de Programação",
+          "url": "https://www.youtube.com/watch?v=4ZAOWlZRbZk&t=17s"
+        },
+        {
+          "titulo": "Desenvolvimento Web: primeiros passos com HTML e CSS",
+          "url": "https://www.youtube.com/watch?v=leKK3Kldlq0&list=PLDOwn_8Q5OSM31oX6jzhX5uYSb7ktg2vA&index=2"
+        },
+        {
+          "titulo": "Curso de Git para iniciantes",
+          "url": "https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0"
+        },
+        {
+          "titulo": "Primeiros passos na tecnologia",
+          "url": "hhttps://www.youtube.com/watch?v=-8NqwIV9S1A"
+        },
+        {
+          "titulo": "Os 3 livros que fizeram eu não desistir da programação",
+          "url": "https://www.youtube.com/watch?v=Uh0Kn2aXEqY"
+        },
+        
+        {
+          "titulo": "Desenvolvimento Web com HTML5, CSS e JS ",
+          "url": "https://www.youtube.com/watch?v=owefhaTT0AQ&list=PLDOwn_8Q5OSM31oX6jzhX5uYSb7ktg2vA&index=1"
+        },
+        {
+          "titulo": "Vida de Programadora",
+          "url": "https://www.youtube.com/watch?v=Usnp2ht_Upg"
+        }        
+      ]
+    },
+    {
+      "titulo": "Front End",
+      "cor": "#B72EBF",
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? ",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "Construindo uma página web com Bootstrap em 2 horas",
+          "url": "https://www.youtube.com/watch?v=2sHjaOfAlbA&list=PLDOwn_8Q5OSM31oX6jzhX5uYSb7ktg2vA&index=5"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=2zqzzTnfa0E"
+        },
+        {
+          "titulo": "Curso Grátis de JavaScript Moderno",
+          "url": "https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    },
+    {
+      "titulo": "UX Design",
+      "cor": "#B72EBF",
+      "videos": [
+        {
+          "titulo": "Don Norman: 3 maneiras pelas quais o design te faz feliz",
+          "url": "https://www.youtube.com/watch?v=RlQEoJaLQRA&list=PL2Pfp2qo2ECyhHSn2FiB43aXHRpWsoyhA&index=2"
+        },
+        {
+          "titulo": "What is UX Design?",
+          "url": "https://www.youtube.com/watch?v=CJnfAXlBRTE&list=PLzKJi2GjpkEELRD-YatYYLyItQ9O_MPU8"
+        },
+        {
+          "titulo": "Blacks Who Design with Tolu Olubode",
+          "url": "https://www.youtube.com/watch?v=HoxiPK7OS9s"
+        },
+        {
+          "titulo": "DESIGN SPRINT 2.0",
+          "url": "https://www.youtube.com/watch?v=YW2ifUTVd_E"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "#B72EBF",
+      "videos": [
+        {
+          "titulo": "Dark",
+          "url": "https://www.youtube.com/watch?v=9RNHKKYJvg8"
+        },
+        {
+          "titulo": "Gossip Girl",
+          "url": "https://www.youtube.com/watch?v=jIBRC1gTSf8"
+        },
+        {
+          "titulo": "The Last Kingdom",
+          "url": "https://www.youtube.com/watch?v=9Za_bQYuL1w"
+        },
+        {
+          "titulo": "The Office",
+          "url": "https://www.youtube.com/watch?v=gO8N3L_aERg"
+        } 
+      ]
+    },
+    {
+      "titulo": "Bônus",
+      "cor": "#B72EBF",
+      "videos": [
+        {
+          "titulo": "FRACASSOS, FRUSTRAÇÕES E SÍNDROME DO IMPOSTOR | Livre de Contexto",
+          "url": "https://www.youtube.com/watch?v=m4yiiWvJ9cE"
+        },
+        {
+          "titulo": "Como seu cérebro muda ao falar outros idiomas?",
+          "url": "https://www.youtube.com/watch?v=_fmqo8p-57Q"
+        },
+        {
+          "titulo": "A MATURIDADE EMOCIONAL EM DIVERTIDAMENTE",
+          "url": "https://www.youtube.com/watch?v=95kJp_tUNus&t=57s"
+        },
+        {
+          "titulo": "Great Gardens: Las Pozas, Mexico",
+          "url": "https://www.youtube.com/watch?v=BLcsOeiadls&list=PLuu-TPQ2CJp2AjS-VVaUzZVeWG5PCGIxO&index=9"
+        },
+        {
+          "titulo": "Desenhando no papel kraft (gostei??)",
+          "url": "https://www.youtube.com/watch?v=rUQtOgd4Ojk"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#B72EBF",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
